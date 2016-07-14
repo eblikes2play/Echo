@@ -1,0 +1,5 @@
+c:\Users\tardised\documents\visual studio 2015\Projects\echo\client\bin\Debug\client.exe.config
+c:\Users\tardised\documents\visual studio 2015\Projects\echo\client\bin\Debug\client.exe
+c:\Users\tardised\documents\visual studio 2015\Projects\echo\client\bin\Debug\client.pdb
+c:\Users\tardised\documents\visual studio 2015\Projects\echo\client\obj\Debug\client.exe
+c:\Users\tardised\documents\visual studio 2015\Projects\echo\client\obj\Debug\client.pdb

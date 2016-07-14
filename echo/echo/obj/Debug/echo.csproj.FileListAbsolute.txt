@@ -1,0 +1,5 @@
+c:\users\tardised\documents\visual studio 2015\Projects\echo\echo\bin\Debug\echo.exe.config
+c:\users\tardised\documents\visual studio 2015\Projects\echo\echo\bin\Debug\echo.exe
+c:\users\tardised\documents\visual studio 2015\Projects\echo\echo\bin\Debug\echo.pdb
+c:\users\tardised\documents\visual studio 2015\Projects\echo\echo\obj\Debug\echo.exe
+c:\users\tardised\documents\visual studio 2015\Projects\echo\echo\obj\Debug\echo.pdb
